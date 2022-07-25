@@ -9,3 +9,4 @@ c) Working with git in the desired directory:
 	git init
 	git status
 	git commit
+	git push origin main
