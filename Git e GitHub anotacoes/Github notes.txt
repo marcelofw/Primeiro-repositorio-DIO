@@ -1,0 +1,11 @@
+Definition: GitHub is a distributed version-control platform where users can collaborate on or adopt open source code projects, fork code, share ideas and more.
+Setting up GitHub:
+a) Install Gitbash;
+b) Set up e-mail and username: 
+	git config --global user.email "your@email.com"
+	git config --global user.name "yourname"
+c) Working with git in the desired directory:
+	C://user/project
+	git init
+	git status
+	git commit
