@@ -10,3 +10,16 @@ c) Working with git in the desired directory:
 	git status
 	git commit
 	git push origin main
+	git remote add origin URL
+	git remote add origin https://github.com/marcelofw/Interface-Instagram-DIO.git
+	git push -u origin main
+	git pull origin main --allow-unrelated-histories
+	
+	
+	
+	
+	
+	
+	
+	
+	
